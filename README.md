@@ -9,7 +9,9 @@ It is almost everyones first program that they will run.
 # Development Environment
 
 [Git](https://git-scm.com/)
+
 [Github](https://github.com/ValiantWolf)
+
 [Visual Studio Code](https://code.visualstudio.com)
 
 Python 3.9.5

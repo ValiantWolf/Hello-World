@@ -4,7 +4,7 @@
 
 It is almost everyones first program that they will run.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=B_1U6XFnWWg)
 
 # Development Environment
 
